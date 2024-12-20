@@ -51,22 +51,7 @@ Currently working as a Senior Software Development Consultant at [Anymind Group]
 5. **[Clean API Call With React Hooks](https://imasharaful.medium.comhttps://imasharaful.medium.com/clean-api-call-with-react-hooks-3bd6438a375a)**  
    _Make API calls more consistent throughout the whole application with concise, clean, and reusable code_
 
-6. **[The Mindset to Deal With Rejection From the Company You Admire](https://imasharaful.medium.comhttps://imasharaful.medium.com/the-mindset-to-deal-with-rejection-from-the-company-you-admire-a74833c1fa9f)**  
-   _“Fall down seven times, get up eight.” — Japanese Proverb_
-
-7. **[Prototypical Inheritance in Javascript](https://imasharaful.medium.comhttps://imasharaful.medium.com/prototypical-inheritance-in-javascript-e43ac10dbf5e)**  
-   _In Javascript we don’t have classes, rather we only have objects. So if we want to implement inheritance with objects we can get the help…_
-
-8. **[Property Descriptor in Javascript](https://imasharaful.medium.comhttps://imasharaful.medium.com/property-descriptor-in-javascript-2db2a8d28664)**  
-   _Have you ever heard the term Property Descriptor during the time you have been working with javascript? To be a better javascript…_
-
-9. **[Middleware in Express Applications](https://imasharaful.medium.comhttps://imasharaful.medium.com/middleware-in-express-application-2b717e741c16)**  
-   _It’s not nearly as complicated as it sounds_
-
-10. **[Composition or Inheritance, Which One Do You Prefer?](https://imasharaful.medium.comhttps://imasharaful.medium.com/composition-or-inheritance-which-one-do-you-prefer-9c32af1bbaec)**  
-   _Inheritance is a great principle in object oriented programming where we can reuse code. But we have to be careful when using it because…_
-
-<p align="right"><code>[Last updated: 20 December 2024 at 17:10:20 (Europe/Berlin)]</code></p>
+<p align="right"><code>[Last updated: 20 December 2024 at 17:14:07 (Europe/Berlin)]</code></p>
 
 <!-- END_FETCHED_MEDIUM_POSTS -->
 
