@@ -1,0 +1,35 @@
+name: Update README with Medium Posts
+
+on:
+  schedule:
+    - cron: "*/5 * * * *" # Runs every 5 minutes
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set Up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Fetch Medium Posts and Update README
+        run: node fetch-medium-posts.js
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "Ashraful Islam"
+          git config --global user.email "rx.ju.edu@gmail.com"
+          git add README.md
+          git commit -m "Update Medium posts"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

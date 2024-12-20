@@ -34,20 +34,21 @@ Currently working as a Senior Software Development Consultant at [Anymind Group]
 
 ### 📚 Latest Blog Posts
 
-1. **[Custom Plugins for Expo Application](https://imasharaful.medium.com/custom-plugins-for-expo-application-a17b7f889483)**  
-   _Extend your Expo applications beyond any limitations!_
+<!-- START_FETCHED_MEDIUM_POSTS -->
 
-2. **[Build Variants on Expo React Native App](https://medium.com/@imasharaful/build-variants-on-expo-react-native-app-b35cd276be26)**  
-   _Customizing builds for dev, staging, and production environments._
+1. **[Caching Layer with Mongoose Using Prototype](https://imasharaful.medium.comhttps://imasharaful.medium.com/caching-layer-with-mongoose-using-prototype-342c4eed5af5)**  
+   _A Clean and Generic Approach for Caching MongoDB Data Using Mongoose Prototype on Node Service/Application_
 
-3. **[Simplifying State Management with Zustand](https://medium.com/swlh/simplifying-state-management-exploring-zustand-as-an-alternative-to-context-and-redux-maybe-7a61a6a732c5)**  
-   _Explore Zustand as a lightweight alternative to Context and Redux._
+2. **[Build Variants on Expo React Native App](https://imasharaful.medium.comhttps://imasharaful.medium.com/build-variants-on-expo-react-native-app-b35cd276be26)**  
+   _Customizing Builds for Every Use Case (e.g., dev, staging, production)_
 
-4. **[Clean API Calls With React Hooks](https://medium.com/better-programming/clean-api-call-with-react-hooks-3bd6438a375a)**  
-   _Learn how to streamline your API calls using modern React patterns._
+3. **[Custom Plugins for Expo Application](https://imasharaful.medium.comhttps://imasharaful.medium.com/custom-plugins-for-expo-application-a17b7f889483)**  
+   _Extend your expo applications beyond any limitations!_
 
-5. **[React Context vs Redux](https://medium.com/swlh/should-you-use-react-context-over-redux-in-react-application-6163c2da614a)**  
-   _Analyze when to use React Context over Redux for state management._
+4. **[Simplifying State Management: Exploring Zustand as an Alternative to Context and Redux(maybe?)](https://imasharaful.medium.comhttps://imasharaful.medium.com/simplifying-state-management-exploring-zustand-as-an-alternative-to-context-and-redux-maybe-7a61a6a732c5)**  
+   _One of the main benefits of using a state management library is it gives us more control over state management and allows us to rerender…_
+
+<!-- END_FETCHED_MEDIUM_POSTS -->
 
 ---
 
