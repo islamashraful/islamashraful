@@ -32,3 +32,11 @@ Currently working as a Senior Software Development Consultant at [Anymind Group]
 
 5. **[React Context vs Redux](https://medium.com/swlh/should-you-use-react-context-over-redux-in-react-application-6163c2da614a)**  
    _Analyze when to use React Context over Redux for state management._
+
+---
+
+### 🌐 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/islam-ashraful)
+- [Medium](https://medium.com/@imasharaful)
+- [Instagram](https://www.instagram.com/islmashrafl)
