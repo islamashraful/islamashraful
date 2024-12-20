@@ -59,6 +59,11 @@ Currently working as a Senior Software Development Consultant at [Anymind Group]
 
 ### 🌐 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/islam-ashraful)
-- [Medium](https://medium.com/@imasharaful)
-- [Instagram](https://www.instagram.com/islmashrafl)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hello.islamashraful@gmail.com)
+
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/islmashrafl)
+
+- [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@imasharaful)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islam-ashraful)
+
+- [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/9162349/ashraful-islam)
