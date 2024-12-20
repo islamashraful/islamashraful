@@ -36,22 +36,22 @@ Currently working as a Senior Software Development Consultant at [Anymind Group]
 
 <!-- START_FETCHED_MEDIUM_POSTS -->
 
-1. **[Caching Layer with Mongoose Using Prototype](https://imasharaful.medium.comhttps://imasharaful.medium.com/caching-layer-with-mongoose-using-prototype-342c4eed5af5)**  
+1. **[Caching Layer with Mongoose Using Prototype](https://imasharaful.medium.com/caching-layer-with-mongoose-using-prototype-342c4eed5af5)**  
    _A Clean and Generic Approach for Caching MongoDB Data Using Mongoose Prototype on Node Service/Application_
 
-2. **[Build Variants on Expo React Native App](https://imasharaful.medium.comhttps://imasharaful.medium.com/build-variants-on-expo-react-native-app-b35cd276be26)**  
+2. **[Build Variants on Expo React Native App](https://imasharaful.medium.com/build-variants-on-expo-react-native-app-b35cd276be26)**  
    _Customizing Builds for Every Use Case (e.g., dev, staging, production)_
 
-3. **[Custom Plugins for Expo Application](https://imasharaful.medium.comhttps://imasharaful.medium.com/custom-plugins-for-expo-application-a17b7f889483)**  
+3. **[Custom Plugins for Expo Application](https://imasharaful.medium.com/custom-plugins-for-expo-application-a17b7f889483)**  
    _Extend your expo applications beyond any limitations!_
 
-4. **[Simplifying State Management: Exploring Zustand as an Alternative to Context and Redux(maybe?)](https://imasharaful.medium.comhttps://imasharaful.medium.com/simplifying-state-management-exploring-zustand-as-an-alternative-to-context-and-redux-maybe-7a61a6a732c5)**  
+4. **[Simplifying State Management: Exploring Zustand as an Alternative to Context and Redux(maybe?)](https://imasharaful.medium.com/simplifying-state-management-exploring-zustand-as-an-alternative-to-context-and-redux-maybe-7a61a6a732c5)**  
    _One of the main benefits of using a state management library is it gives us more control over state management and allows us to rerender…_
 
-5. **[Clean API Call With React Hooks](https://imasharaful.medium.comhttps://imasharaful.medium.com/clean-api-call-with-react-hooks-3bd6438a375a)**  
+5. **[Clean API Call With React Hooks](https://imasharaful.medium.com/clean-api-call-with-react-hooks-3bd6438a375a)**  
    _Make API calls more consistent throughout the whole application with concise, clean, and reusable code_
 
-<p align="right"><code>[Last updated: 20 December 2024 at 20:13:19 (Europe/Berlin)]</code></p>
+<p align="right"><code>[Last updated: 20 December 2024 at 21:02:04 (Europe/Berlin)]</code></p>
 
 <!-- END_FETCHED_MEDIUM_POSTS -->
 

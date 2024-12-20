@@ -23,7 +23,7 @@ async function fetchMediumPosts() {
     blogs.push({
       title,
       subtitle,
-      link: `https://imasharaful.medium.com${link}`,
+      link,
     });
   });
 
