@@ -8,7 +8,7 @@ const fs = require("fs");
 const axios = require("axios");
 const cheerio = require("cheerio");
 
-const NUM_OF_BLOGS_TO_SHOW = 50;
+const NUM_OF_BLOGS_TO_SHOW = 5;
 
 async function fetchMediumPosts() {
   const mediumUrl = "https://imasharaful.medium.com/";
