@@ -66,7 +66,7 @@ Currently working as a Senior Software Development Consultant at [Anymind Group]
 10. **[Composition or Inheritance, Which One Do You Prefer?](https://imasharaful.medium.comhttps://imasharaful.medium.com/composition-or-inheritance-which-one-do-you-prefer-9c32af1bbaec)**  
    _Inheritance is a great principle in object oriented programming where we can reuse code. But we have to be careful when using it because…_
 
-<p align="right"><code>[Last updated: 20 December 2024 at 17:02:33 (Europe/Berlin)]</code></p>
+<p align="right"><code>[Last updated: 20 December 2024 at 17:10:20 (Europe/Berlin)]</code></p>
 
 <!-- END_FETCHED_MEDIUM_POSTS -->
 
