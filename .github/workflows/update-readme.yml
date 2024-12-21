@@ -2,7 +2,7 @@ name: Update README with Medium Posts
 
 on:
   schedule:
-    - cron: "0 * * * *" # Runs every hour at the start of the hour
+    - cron: "0 0 1 * *" # Runs at midnight on the first day of every month
   workflow_dispatch: # Allow manual trigger
 
 jobs:
