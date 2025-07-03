@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ashraful!
 
-A Software Engineer based in Würzburg, Bavaria 🇩🇪
+A Software Engineer based in Würzburg 🇩🇪
 
-Currently working as a Senior Software Development Consultant at [Anymind Group](https://anymindgroup.com) and developing web and mobile applications for Asia's leading Influencer marketing platform, AnyTag.
+Currently working as a Software Development Consultant at [Anymind Group](https://anymindgroup.com) and developing web and mobile applications for Asia's leading Influencer marketing platform, AnyTag.
 
 ---
 
