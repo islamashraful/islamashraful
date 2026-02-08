@@ -1,18 +1,17 @@
-```js
+*// GitHub markdown has limits. I don't. → [imashraful.com](https://imashraful.com)*
+
+```javascript
 const ashraful = {
   role:     "Software Engineer",
   location: "Würzburg, Germany",
-  company:  "Anymind Group",
 };
 ```
 
-`// Building web and mobile apps for Asia's leading Influencer marketing platform.`
-
 ---
 
-### `$ cat stack.config`
+## `getStack()`
 
-```yaml
+```
 frontend:  React, React Native, Expo, TypeScript
 backend:   Node.js
 state/api: Apollo GraphQL, Zustand
@@ -21,7 +20,7 @@ devops:    Docker, CircleCI, Fastlane
 
 ---
 
-### `$ ls writing/`
+## `getArticles()`
 
 ```
 01  Caching Layer with Mongoose Using Prototype
@@ -31,11 +30,11 @@ devops:    Docker, CircleCI, Fastlane
 05  Clean API Call With React Hooks
 ```
 
-`//` [read more on Medium →](https://medium.com/@imasharaful)
+*// [read more on Medium →](https://medium.com/@imasharaful)*
 
 ---
 
-### `$ cat .env`
+## `getContact()`
 
 ```
 EMAIL=hello.islamashraful@gmail.com
