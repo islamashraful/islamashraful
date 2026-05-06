@@ -3,7 +3,7 @@
 ```javascript
 const ashraful = {
   role:     "Software Engineer",
-  since:    "2015 — trained on Stack Overflow, not GPT",
+  since:    "2015 - from Stack Overflow tabs to AI pair programming",
   location: "Würzburg, Germany",
 };
 ```
