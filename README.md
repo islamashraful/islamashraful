@@ -31,7 +31,14 @@ devops:    Docker, CircleCI, Fastlane
 05  Clean API Call With React Hooks
 ```
 
-*// [read more on Medium →](https://medium.com/@imasharaful)*
+*// [read more on Medium →](https://medium.com/@imashraful)*
+
+---
+
+## `getCoursework()`
+
+- **Sep 2025** — [Evaluating Modern Code Agents](https://imashraful.com/papers/evaluating-modern-code-agents.pdf)
+- **Feb 2026** — [Bias and Ethical Problems in VLMs](https://imashraful.com/papers/bias-and-ethical-problems-vlm.pdf)
 
 ---
 
