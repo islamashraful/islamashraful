@@ -48,4 +48,4 @@ devops:    Docker, CircleCI, Fastlane
 EMAIL=hello.islamashraful@gmail.com
 ```
 
-[Medium](https://medium.com/@imasharaful) · [LinkedIn](https://www.linkedin.com/in/islam-ashraful) · [Stack Overflow](https://stackoverflow.com/users/9162349/ashraful-islam)
+[Medium](https://medium.com/@imashraful) · [LinkedIn](https://www.linkedin.com/in/islam-ashraful) · [Stack Overflow](https://stackoverflow.com/users/9162349/ashraful-islam)
